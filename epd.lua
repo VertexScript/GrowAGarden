@@ -1,3 +1,7 @@
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
 
 -- ⛏ BIudnyHoIandan VIP Pet Hatch GUI (Dark Theme with White Buttons)
 local Players = game:GetService("Players")
